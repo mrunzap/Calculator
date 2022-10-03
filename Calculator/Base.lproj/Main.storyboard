@@ -60,7 +60,7 @@
                                                             <userDefinedRuntimeAttribute type="boolean" keyPath="isRound" value="YES"/>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4CV-U1-mNf"/>
+                                                            <action selector="addButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Run-7R-5Ot"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -132,7 +132,7 @@
                                                             <userDefinedRuntimeAttribute type="boolean" keyPath="isRound" value="YES"/>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="C8n-nh-jFK"/>
+                                                            <action selector="multiplyButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Aq-ZP-nUC"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -201,7 +201,7 @@
                                                             <userDefinedRuntimeAttribute type="boolean" keyPath="isRound" value="YES"/>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QsD-nU-Vr1"/>
+                                                            <action selector="substractButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="D3N-df-lrd"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -270,7 +270,7 @@
                                                             <userDefinedRuntimeAttribute type="boolean" keyPath="isRound" value="YES"/>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hvS-3v-LOM"/>
+                                                            <action selector="divideButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fdb-5I-TYu"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
@@ -320,7 +320,7 @@
                                                             <userDefinedRuntimeAttribute type="boolean" keyPath="isRound" value="YES"/>
                                                         </userDefinedRuntimeAttributes>
                                                         <connections>
-                                                            <action selector="calculateButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pgK-6C-deh"/>
+                                                            <action selector="equalButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vhe-Nf-PLg"/>
                                                         </connections>
                                                     </button>
                                                 </subviews>
