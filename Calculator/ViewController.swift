@@ -87,6 +87,7 @@ class ViewController: UIViewController {
                 self.firstOperand = self.result
                 self.numberOutPutLabel.text = self.result
             }
+            self.currentOperation = operation
         }else {
             // 연산자 클릭하기 전이니깐 첫번째 피연산자에 값추가
             self.firstOperand = self.displayNumber
