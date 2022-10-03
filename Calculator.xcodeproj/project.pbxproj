@@ -16,6 +16,7 @@
 		EE4113BE28E504C500F68FCF /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4113BD28E504C500F68FCF /* CalculatorTests.swift */; };
 		EE4113C828E504C500F68FCF /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4113C728E504C500F68FCF /* CalculatorUITests.swift */; };
 		EE4113CA28E504C500F68FCF /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4113C928E504C500F68FCF /* CalculatorUITestsLaunchTests.swift */; };
+		EE680A1928EAEC0700BC8ACF /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE680A1828EAEC0700BC8ACF /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EE4113C328E504C500F68FCF /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE4113C728E504C500F68FCF /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		EE4113C928E504C500F68FCF /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EE680A1828EAEC0700BC8ACF /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				EE4113AF28E504C500F68FCF /* Assets.xcassets */,
 				EE4113B128E504C500F68FCF /* LaunchScreen.storyboard */,
 				EE4113B428E504C500F68FCF /* Info.plist */,
+				EE680A1828EAEC0700BC8ACF /* RoundButton.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE680A1928EAEC0700BC8ACF /* RoundButton.swift in Sources */,
 				EE4113AB28E504C300F68FCF /* ViewController.swift in Sources */,
 				EE4113A728E504C300F68FCF /* AppDelegate.swift in Sources */,
 				EE4113A928E504C300F68FCF /* SceneDelegate.swift in Sources */,
